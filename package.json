@@ -1,0 +1,15 @@
+{
+  "name": "sample-datocms-jekyll-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dskelton-cos/sample-datocms-jekyll-portfolio.git",
+  "author": "David Skelton <dskelton@cityofsydney.nsw.gov.au>",
+  "license": "MIT",
+  "dependencies": {
+    "datocms-client": "^0.3.34",
+    "jsonfile": "^4.0.0",
+    "node-fetch": "^1.7.3",
+    "node-schedule": "^1.2.5",
+    "to-markdown": "^3.1.0"
+  }
+}
